@@ -2,4 +2,4 @@
 venv
 
 # Database
-*.sqlite3
+db.sqlite3
